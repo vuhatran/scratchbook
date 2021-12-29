@@ -1,5 +1,5 @@
 # CÙNG CON HỌC LẬP TRÌNH SCRATCH
-
+![Bìa sách](https://github.com/vuhatran/scratchbook/blob/main/misc/bia%201.jpg)
 # Lời mở đầu
 Một chương trình máy tính là một dãy các câu lệnh mà máy phải thực thi để hoàn thành một nhiệm vụ (các nhiệm vụ này thường lặp đi lặp lại và sẽ tốn khá nhiều thời gian để người bình thường giải quyết). Có rất nhiều các ngôn ngữ khác nhau giúp chúng ta viết ra các câu lệnh cho máy tính. Mỗi ngôn ngữ có cú pháp và tập các từ khóa riêng nhưng chúng thường được kết hợp để tạo nên các cấu trúc lệnh với chức năng cơ bản giống nhau. Các chức năng hay gặp nhất là: nhập dữ liệu, xuất dữ liệu, ra quyết định dựa trên dữ liệu (các câu lệnh rẽ nhánh) và thực hiện các thao tác lặp đi lặp lại (các câu lệnh lặp hay còn gọi là các vòng lặp). 
 Scratch cũng là một ngôn ngữ lập trình nhưng vì được thiết kế ra cho trẻ em nên người dùng (trẻ em) không phải gõ từng từ khóa hay từng câu lệnh. Thay vào đó người dùng sử dụng các khối lệnh có sẵn, điều chỉnh các tham số của lệnh và kết hợp chúng với nhau để tạo nên chương trình của riêng mình. Sự tiện lợi này giúp các bạn nhỏ tập trung vào thuật toán (các bước cần thiết để xử lý công việc) và thể hiện các ý tưởng của mình.
