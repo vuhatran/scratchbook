@@ -1,13 +1,13 @@
 # CÙNG CON HỌC LẬP TRÌNH SCRATCH
 
-#Lời mở đầu
+# Lời mở đầu
 Một chương trình máy tính là một dãy các câu lệnh mà máy phải thực thi để hoàn thành một nhiệm vụ (các nhiệm vụ này thường lặp đi lặp lại và sẽ tốn khá nhiều thời gian để người bình thường giải quyết). Có rất nhiều các ngôn ngữ khác nhau giúp chúng ta viết ra các câu lệnh cho máy tính. Mỗi ngôn ngữ có cú pháp và tập các từ khóa riêng nhưng chúng thường được kết hợp để tạo nên các cấu trúc lệnh với chức năng cơ bản giống nhau. Các chức năng hay gặp nhất là: nhập dữ liệu, xuất dữ liệu, ra quyết định dựa trên dữ liệu (các câu lệnh rẽ nhánh) và thực hiện các thao tác lặp đi lặp lại (các câu lệnh lặp hay còn gọi là các vòng lặp). 
 Scratch cũng là một ngôn ngữ lập trình nhưng vì được thiết kế ra cho trẻ em nên người dùng (trẻ em) không phải gõ từng từ khóa hay từng câu lệnh. Thay vào đó người dùng sử dụng các khối lệnh có sẵn, điều chỉnh các tham số của lệnh và kết hợp chúng với nhau để tạo nên chương trình của riêng mình. Sự tiện lợi này giúp các bạn nhỏ tập trung vào thuật toán (các bước cần thiết để xử lý công việc) và thể hiện các ý tưởng của mình.
 
-#Cuốn sách này dành cho ai?
+# Cuốn sách này dành cho ai?
 Cuốn sách này thích hợp cho bất cứ ai muốn bắt đầu tự học lập trình dù mục tiêu ban đầu của Scratch chỉ là dành cho các bạn nhỏ. Đây là tài liệu học và giảng dạy lập trình thiết yếu dành cho học sinh và giáo viên dạy tin học từ lớp 3 đến lớp 9. Giáo viên các cấp cũng có thể áp dụng các kiến thức trong cuốn sách này để tạo nên các chương trình minh họa cho nội dung bài học của các môn học khác. Cuốn sách này cũng dành cho những người muốn tìm một hình thức giải trí mới và khác biệt.
 
-#Cấu trúc của cuốn sách này
+# Cấu trúc của cuốn sách này
 Chương 1 sẽ giới thiệu một chút về Scratch. Sau đó bạn sẽ bắt đầu với việc cài đặt Scratch và thực hiện các thao tác cơ bản nhất (tạo dự án mới, lưu dự án và mở lại một dự án đã hoàn thành từ trước). 
 Chương 2 nói về cấu trúc của một dự án Scratch. Sau đó bạn sẽ học một số lệnh cơ bản và thường được sử dụng trong các dự án.
 Chương 3 tập trung vào các lệnh làm nhân vật di chuyển trên sân khấu.
@@ -20,7 +20,7 @@ Chương 11 là chương mà tôi tin rằng bạn sẽ rất thích! Bạn sẽ
 Chương 12, Chương 13, và Chương 14 sẽ đề cập tới một số vấn đề quan trọng khác của công việc lập trình. Chương 12 sẽ nói về chương trình con (trong Scratch gọi là khối, các ngôn ngữ khác có thể gọi là hàm, thủ thục hoặc phương thức). Chương 13 nói về một kiểu dữ liệu quan trọng là danh sách (các ngôn ngữ khác có thể gọi là mảng). Chương 14 sẽ nói về việc xử lý các chuỗi kí tự (String).
 Chương 15 sẽ cung cấp cho bạn một số dự án hoàn chỉnh và thú vị khác.
 
-#Mục lục
+# Mục lục
 Chương 1 - Giới thiệu chung	1
 1. Giới thiệu Scratch	1
 1.1 Lịch sử phát triển của Scratch	1
