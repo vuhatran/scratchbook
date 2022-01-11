@@ -11,7 +11,7 @@ Scratch cũng là một ngôn ngữ lập trình nhưng vì được thiết k�
 
 # Cấu trúc của cuốn sách này
   Chương 1 sẽ giới thiệu một chút về Scratch. Sau đó bạn sẽ bắt đầu với việc cài đặt Scratch và thực hiện các thao tác cơ bản nhất (tạo dự án mới, lưu dự án và mở lại một dự án đã hoàn thành từ trước). <br/><br/>
-  Chương 2 nói về cấu trúc của một dự án Scratch. Sau đó bạn sẽ học một số lệnh cơ bản và thường được sử dụng trong các dự án.<br/><br/>
+  Phần đầu của Chương 2 nói về các thành phần cơ bản của một dự án Scratch như sân khấu và các nhân vật. Sau đó bạn sẽ học một số lệnh cơ bản và thường được sử dụng trong các dự án.<br/><br/>
   Chương 3 tập trung vào các lệnh làm nhân vật di chuyển trên sân khấu.<br/><br/>
   Chương 4 sẽ nói về trang phục của nhân vật cũng như các lệnh làm thay đổi diện mạo bên ngoài của nhân vật. Trong khi diện mạo của nhân vật sẽ thu hút người dùng thì âm thanh của nhân vật cũng như âm nhạc trong các ứng dụng (đặc biệt là các trò chơi) sẽ mang lại sự chìm đắm của người dùng. Do đó chương 5 sẽ nói về việc quản lý âm thanh và điều khiển quá trình phát âm thanh/âm nhạc của nhân vật.<br/><br/>
   Chương 6 sẽ nói về việc điều khiển cây bút ảo gắn liền với mỗi nhân vật trong chương trình. Kết hợp với việc di chuyển nhân vật (chương 3), cây bút ảo sẽ tạo nên những hình vẽ trên sân khấu.<br/><br/>
