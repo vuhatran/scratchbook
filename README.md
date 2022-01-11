@@ -26,5 +26,5 @@ Chương 15 sẽ cung cấp cho bạn một số dự án hoàn chỉnh và thú
 Tải mục lục tại ![đây](https://github.com/vuhatran/scratchbook/blob/main/misc/muc%20luc.pdf)
 
 # Sample content
-Xem một phần nội dung chương 1 tại ![đây](https://github.com/vuhatran/scratchbook/blob/main/misc/sample.pdf)
+Xem một phần nội dung tại ![đây](https://github.com/vuhatran/scratchbook/blob/main/misc/first%20pages.pdf)
 
