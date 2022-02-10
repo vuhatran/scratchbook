@@ -28,3 +28,5 @@ Tải mục lục tại ![đây](https://github.com/vuhatran/scratchbook/blob/ma
 # Sample content
 Xem một phần nội dung tại ![đây](https://github.com/vuhatran/scratchbook/blob/main/misc/first%20pages.pdf)
 
+# Clip ngắn giới thiệu sách
+[![Clip mở sách](https://img.youtube.com/vi/dJkmvpZPW44/0.jpg)](https://www.youtube.com/watch?v=dJkmvpZPW44)
