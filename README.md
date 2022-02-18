@@ -23,13 +23,13 @@ Scratch cũng là một ngôn ngữ lập trình nhưng vì được thiết k�
 Chương 15 sẽ cung cấp cho bạn một số dự án hoàn chỉnh và thú vị khác.<br/><br/>
 
 # Mục lục
-Tải mục lục tại ![đây](https://github.com/vuhatran/scratchbook/blob/main/misc/muc%20luc.pdf)
+Tải mục lục tại [đây](https://github.com/vuhatran/scratchbook/blob/main/misc/muc%20luc.pdf)
 
 # Sample content
-Xem một phần nội dung tại ![đây](https://github.com/vuhatran/scratchbook/blob/main/misc/first%20pages.pdf)
+Xem một phần nội dung tại [đây](https://github.com/vuhatran/scratchbook/blob/main/misc/first%20pages.pdf)
 
 # Clip ngắn giới thiệu sách
 [![Clip mở sách](https://img.youtube.com/vi/dJkmvpZPW44/0.jpg)](https://www.youtube.com/watch?v=dJkmvpZPW44)
 
 # Thông tin tác giả
-![Thông tin tác giả](https://www.vnua.edu.vn/trang-ca-nhan/tran-vu-ha-191)
+[Thông tin tác giả](https://www.vnua.edu.vn/trang-ca-nhan/tran-vu-ha-191)
