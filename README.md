@@ -31,5 +31,5 @@ Xem một phần nội dung tại [đây](https://github.com/vuhatran/scratchboo
 # Clip ngắn giới thiệu sách
 [![Clip mở sách](https://img.youtube.com/vi/dJkmvpZPW44/0.jpg)](https://www.youtube.com/watch?v=dJkmvpZPW44)
 
-# Thông tin tác giả
-[Thông tin tác giả](https://www.vnua.edu.vn/trang-ca-nhan/tran-vu-ha-191)
+# Thông tin về tác giả
+[TS. Trần Vũ Hà](https://www.vnua.edu.vn/trang-ca-nhan/tran-vu-ha-191)
